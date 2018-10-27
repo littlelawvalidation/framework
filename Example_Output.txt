@@ -1,0 +1,13 @@
+SingularBuildingBlock: homepager/z/x/e/c: 75.0/0.0/12.8153/46253/1
+SingularBuildingBlock: loginr/z/x/e/c: 111.0/0.0/10.2508/36985/1
+SingularBuildingBlock: newcustomerr/z/x/e/c: 153.0/0.0/2.569/9268/1
+ConditionalBuildingBlock: cnbb1r/z/x/e/c: 119.41580005621256/0.0/12.8198/46253/1
+SingularBuildingBlock: browse(category)r/z/x/e/c: 85.0/0.0/12.9234/46588/1
+SingularBuildingBlock: browse(actor)r/z/x/e/c: 85.0/0.0/12.8746/46414/1
+SingularBuildingBlock: browse(title)r/z/x/e/c: 84.0/0.0/12.8685/46391/1
+ConditionalBuildingBlock: cnbb2r/z/x/e/c: 84.66719275716858/0.0/38.6665/139393/1
+LoopBuildingBlock: lobb1r/z/x/e/c: 254.00157827150574/0.0/38.6665/139393/3
+SingularBuildingBlock: purchaser/z/x/e/c: 446.0/3000.0/12.8311/46251/1
+SequenceBuildingBlock: sebb1r/z/x/e/c: 894.4173783277183/3000.0/77.1327/278150/6
+Xexpect:12.84
+Xactual:12.86
